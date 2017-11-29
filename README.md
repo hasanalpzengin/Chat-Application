@@ -6,3 +6,4 @@ Server and Client side included chat application. Used Socket, for communication
 - Username
 - Custom IP
 - Multiple client supported
+- Multi Thread Support
